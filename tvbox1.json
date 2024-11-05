@@ -3,7 +3,7 @@
     "lives": [
         {
             "name": "live",
-            "url": "https://tv.iill.top//m3u/Adult",
+            "url": "https://tv.iill.top/m3u/Adult",
             "type": 0,
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png",
@@ -977,25 +977,6 @@
             ]
         },
         {
-            "key": "天美",
-            "name": "天美|doll",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "http://www.71rzsy.com/caches/caches_template/block/lib/XBPQ.jar",
-            "style": {
-                "ratio": 1.7
-            },
-            "ext": {
-                "搜索链接": "http://www.xbyc.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
-                "数组": "\"box-item\"&&</em>",
-                "副标题": "<strong>&&</strong>",
-                "分类数组": "<li>&&</li>",
-                "分类标题": "\">&&</a",
-                "分类ID": "id/&&.",
-                "分类链接": "http://www.xbyc.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html;;mz"
-            }
-        },
-        {
             "key": "155专场",
             "name": "155采集",
             "type": 1,
@@ -1104,26 +1085,6 @@
             "api": "https://api.sexnguon.com/api.php/provide/vod/",
             "searchable": 0,
             "quickSearch": 0
-        },
-        {
-            "key": "精工厂",
-            "name": "精工厂",
-            "type": 0,
-            "api": "https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "jar": "https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"
-        },
-        {
-            "key": "美少女",
-            "name": "美少女",
-            "type": 0,
-            "api": "https://www.msnii.com/api/xml.php",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "jar": "https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"
         },
         {
             "key": "老鸭2",
